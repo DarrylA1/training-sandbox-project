@@ -1,5 +1,5 @@
 module "vpc_infra" {
-  source = "github.com/DarrylA1/training-sandbox-project"
+  source = "github.com/DarrylA1/training-vpc-tfmodule"
 
   project_name   = "sandbox"
   region_name    = "us-east-1"
